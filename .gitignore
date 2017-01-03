@@ -1,0 +1,7 @@
+db.sqlite3
+
+pyenv/
+
+*.pyo
+*.pyc
+tag/__pycache__/
